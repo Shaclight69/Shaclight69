@@ -1,4 +1,3 @@
-👋 Hello, I'm Mohamed Dhia Ghorbel!
 🚀 Full-Stack Web Developer | 💻Building Web Experiences | 🌐 Open Source Enthusiast
 
 📚 I'm passionate about technology and thrive on crafting web applications that provide real value. With a solid grasp of both MERN and NextJS, I enjoy working across the full stack to create seamless, user-friendly experiences.
