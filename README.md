@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-width="600px"
->
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px"></div>
 
-## 💫 About me: <img style="margin-left:1100px" src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="20px">
+<div align="right"><img src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="20px"></div>
+
+## 💫 About me:
 
 - 🔭 I’m currently working on Task Manager App 📝
 - 🌱 I’m presently learning Django
@@ -12,7 +11,9 @@ width="600px"
 - 📫 How to reach me dhiaghorbel0@gmail.com
 - ⚡ Fun fact: Shaco OTP in League of Legends 👽
 
-<img style="margin-left:1220px" width="110px" src="https://visitcount.itsvg.in/api?id=Shaclight69&icon=5&color=5">
+<div align="right">
+<img width="130px" src="https://visitcount.itsvg.in/api?id=Shaclight69&icon=5&color=5">
+</div>
 
 ## 💻 Tech Stack:
 
@@ -38,16 +39,17 @@ width="600px"
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shaclight69&theme=dracula&hide_border=false) &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api?username=Shaclight69&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) &nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaclight69&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img style="margin-left:20px" src="https://media.tenor.com/09Dt9q_XdvwAAAAi/murasama-terraria.gif" width="30px" >
+<img style="margin-left:50px; margin-bottom:50px" src="https://media.tenor.com/09Dt9q_XdvwAAAAi/murasama-terraria.gif" width="30px">
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shaclight69&theme=dracula&hide_border=false)
+
+ </div>
 
 ### 🔝 Top Contributed Repo :
 
-<div align="center">
-<img style="margin-left:35px" src="https://media.tenor.com/rJUhd1EbFcYAAAAi/pixxu-magic.gif" width="45px" >
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Shaclight69&limit=5&theme=dracula&combine_all_yearly_contributions=true">
-
-</div>
+<div align=center><img src="https://media.tenor.com/rJUhd1EbFcYAAAAi/pixxu-magic.gif" width="45px" ></div>
+<div align=center><img src="https://github-contributor-stats.vercel.app/api?username=Shaclight69&limit=5&theme=dracula&combine_all_yearly_contributions=true"></div>
