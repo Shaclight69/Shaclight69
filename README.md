@@ -3,10 +3,8 @@
 width="600px"
 >
 </div>
-<!-- https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gifs -->
-## 💫 About me: <img style="margin-left:1100px" src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="20px">
 
-<!-- ### <div align="center">I'm Dhia, a full-time full-stack freelance developer 👨‍💻</div> -->
+## 💫 About me: <img style="margin-left:1100px" src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="20px">
 
 - 🔭 I’m currently working on Task Manager App 📝
 - 🌱 I’m presently learning Django
@@ -15,15 +13,6 @@ width="600px"
 - ⚡ Fun fact: Shaco OTP in League of Legends 👽
 
 <img style="margin-left:1220px" width="110px" src="https://visitcount.itsvg.in/api?id=Shaclight69&icon=5&color=5">
-
-<div align="right">
-<!-- 
-<img src="https://media.tenor.com/09Dt9q_XdvwAAAAi/murasama-terraria.gif" width="50px" > -->
-<!-- <img src="https://media.tenor.com/rJUhd1EbFcYAAAAi/pixxu-magic.gif" width="50px" > -->
-<!-- <img src="https://media.tenor.com/xTsXtXI31e8AAAAi/walking-walk.gif" width="50px" >  -->
-<!-- <img src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="50px" > -->
-
-</div>
 
 ## 💻 Tech Stack:
 
