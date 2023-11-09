@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Task Manager App 📝
 - 🌱 I’m presently learning Django
 - 💬 Ask me about Web Development
-- 📫 How to reach me dhiaghorbel0@gmail.com
+- 📫 How to reach me medhiaghorbel@gmail.com
 - ⚡ Fun fact: Shaco OTP in League of Legends 👽
 
 <div align="right">
