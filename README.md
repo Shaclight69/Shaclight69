@@ -5,8 +5,8 @@
 
 ## 💫 About me:
 
-- 🔭 I’m currently working on Task Manager App 📝
-- 🌱 I’m presently learning Django
+- 🔭 I’m currently working on Portfolio Website 📝
+- 🌱 I’m presently learning DevOps
 - 💬 Ask me about Web Development
 - 📫 How to reach me medhiaghorbel@gmail.com
 - ⚡ Fun fact: Shaco OTP in League of Legends 👽
