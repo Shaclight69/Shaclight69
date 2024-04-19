@@ -5,10 +5,8 @@
 
 ## 💫 About me:
 
-- 🔭 I’m currently working on Workrush (TODO Application) 📝
-- 🌱 I’m presently learning DevOps
-- 💬 Ask me about Web Development
-- 📫 How to reach me medhiaghorbel@gmail.com
+- 💻 I’m currently working on Workrush (TODO Application) 📝
+- 📖 I’m presently learning Web Game Development
 
 <div align="right">
 <img width="130px" src="https://visitcount.itsvg.in/api?id=Shaclight69&icon=5&color=5">
