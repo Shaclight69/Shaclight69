@@ -1,16 +1,40 @@
+<!-- <div align="right"><img src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="20px"></div> -->
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px"></div>
 
-<div align="right"><img src="https://media.tenor.com/aA2fxKShVhQAAAAi/pixel-walking.gif" width="20px"></div>
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197670&&width=435&lines=console.log(%22Hello%2C+World%22);フロー状態!&center=true&size=25"/>
+    </a>
+  </div>
+<div> <img src="assets/geo.gif" width="450px"> </div>
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
-## 💫 About me:
+  <div>
 
-- 💻 I’m currently working on Workrush (TODO Application) 📝
-- 📖 I’m presently learning Web Game Development
+<a href="https://instagram.com/cxldghoste"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>&emsp;
+<a href="https://www.facebook.com/shaclight/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>&emsp;
+<a href="https://linkedin.com/in/shaclight"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>&emsp;
+<a href="https://discord.com/users/317281861019631616"><img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white"/>&emsp;</a>
+<a href="mailto:medhiaghorbel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>&emsp;</a>
 
-<div align="right">
-<img width="130px" src="https://visitcount.itsvg.in/api?id=Shaclight69&icon=5&color=5">
+  </div>
+
+  <i>
+  I'm a Full Stack Developer and I'm currently learning DevOps, and Game Develompement.<br>
+  Open to collaborating on interesting and innovative projects.<br>
+  </i>
+  <br>
+
 </div>
+
+<!-- <div align="center">
+<img src="[![Image of https://github.com/gayanvoice/my-profile-views-counthttps://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)">
+
+</div> -->
+
+![Snake animation](https://raw.githubusercontent.com/Shaclight69/Shaclight69/output/github-contribution-grid-snake-dark.svg)
 
 ## 💻 Tech Stack:
 
@@ -26,7 +50,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cxldghoste)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dhiaghorbel69/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shaclight/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaclight)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/317281861019631616)
 
