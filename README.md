@@ -3,7 +3,7 @@
   <!-- Typing-svg (Hello World) -->
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197670&&width=435&lines=console.log(%22Hello%2C+World%22);フロー状態!&center=true&size=25"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=197670&&width=435&lines=console.log(%22Hello%2C+World%22);フロー状態!&center=true&size=**25**"/>
     </a>
   </div>
 
@@ -22,10 +22,10 @@
   </div>
   <br>
 
-  <i>
-  I'm a Full Stack Developer and I'm currently learning DevOps, and Game Develompement.<br>
-  Open to collaborating on interesting and innovative projects.<br>
-  </i>
+<i>
+I'm a Full Stack Developer and I'm currently learning DevOps, and Game Development.<br>
+Open to collaborating on interesting and innovative projects.<br>
+</i>
 
  <!-- Snake Code Contribution Map -->
   <picture>
@@ -62,12 +62,12 @@
 
 <div align="center">
   <a href="https://github.com/Shaclight69">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaclight69&theme=whatsapp-dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaclight69&theme=gotham" />
   </a>
   <a href="https://github.com/Shaclight69">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaclight69&hide_border=true&card_width=338&theme=whatsapp-dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaclight69&hide_border=true&card_width=338&theme=gotham" />
   </a>
   <a href="https://github.com/Shaclight69">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaclight69&theme=whatsapp-dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaclight69&theme=gotham" />
   </a>
 </div>
