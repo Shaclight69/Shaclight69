@@ -14,11 +14,11 @@
   <div>&nbsp;</div>
  
   <div>
-  <a href="https://instagram.com/cxldghoste"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/></a>&emsp;
-  <a href="https://www.facebook.com/shaclight/"><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>&emsp;
-  <a href="https://linkedin.com/in/shaclight"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>&emsp;
-  <a href="https://discord.com/users/317281861019631616"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord"/></a>&emsp;
-  <a href="mailto:medhiaghorbel@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"/></a>&emsp;
+  <a href="https://instagram.com/cxldghoste" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/></a>&emsp;
+  <a href="https://www.facebook.com/shaclight/"target="_blank" ><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>&emsp;
+  <a href="https://linkedin.com/in/shaclight" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>&emsp;
+  <a href="https://discord.com/users/317281861019631616" target="_blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord"/></a>&emsp;
+  <a href="mailto:medhiaghorbel@gmail.com" ><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"/></a>&emsp;
   </div>
   <br>
 
