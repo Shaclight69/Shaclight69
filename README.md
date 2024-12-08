@@ -11,15 +11,6 @@
 <div> <img src="assets/cybergeometry.gif" width="450px"> </div>
 
   <!-- for beauty -->
-  <div>&nbsp;</div>
- 
-  <div>
-  <a href="https://instagram.com/cxldghoste" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/></a>&emsp;
-  <a href="https://www.facebook.com/shaclight/"target="_blank" ><img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>&emsp;
-  <a href="https://linkedin.com/in/shaclight" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>&emsp;
-  <a href="https://discord.com/users/317281861019631616" target="_blank"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord"/></a>&emsp;
-  <a href="mailto:medhiaghorbel@gmail.com" ><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"/></a>&emsp;
-  </div>
   <br>
 
 <i>
@@ -37,25 +28,34 @@ Open to collaborating on interesting and innovative projects.<br>
 
 #### ㅅ Technologies:
 
-[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Shaclight69)
-[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/Shaclight69)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/Shaclight69)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shaclight69)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Shaclight69)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Shaclight69)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Shaclight69)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Shaclight69)
+[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=764abc)](https://github.com/Shaclight69)
+[![TanStack-Query](https://img.shields.io/badge/tanstack--query-black?style=for-the-badge&logo=reactquery)](https://github.com/Shaclight69)
 [![Material-UI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui)](https://github.com/Shaclight69)
-[![Styled-components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components)](https://github.com/Shaclight69)
-[![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux)](https://github.com/Shaclight69)
-[![Vue.js](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)](https://github.com/Shaclight69)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/Shaclight69)
+[![Remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix)](https://github.com/Shaclight69)
 [![TailwindCSS](https://img.shields.io/badge/tailwind%20CSS-black?style=for-the-badge&logo=tailwind%20CSS)](https://github.com/Shaclight69)
+[![Styled-components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components)](https://github.com/Shaclight69)
+[![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://github.com/Shaclight69)
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Shaclight69)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&logoColor=0277bd)](https://github.com/Shaclight69)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Shaclight69)
 [![Express.js](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)](https://github.com/Shaclight69)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Shaclight69)
-[![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)](https://github.com/Shaclight69)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/Shaclight69)
+[![Sequelize](https://img.shields.io/badge/sequelize-black?style=for-the-badge&logo=sequelize)](https://github.com/Shaclight69)
 [![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma)](https://github.com/Shaclight69)
+[![Supabase](https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase)](https://github.com/Shaclight69)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=659bd3)](https://github.com/Shaclight69)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Shaclight69)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=f58219)](https://github.com/Shaclight69)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Shaclight69)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Shaclight69)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/Shaclight69)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Shaclight69)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-web-services)](https://github.com/Shaclight69)
+[![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/Shaclight69)
+[![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://github.com/Shaclight69)
 [![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)](https://github.com/Shaclight69)
 
  <!-- Github Stats -->
